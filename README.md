@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed22668
 - 👀 I’m interested in ... python , Django
 - 🌱 I’m currently learning ... Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Back-end projects
 - 📫 How to reach me ...
 
 <!---
